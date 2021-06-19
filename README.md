@@ -1,4 +1,4 @@
-<h2>Where else to see more about me?</h2> 
+<h2>Where Else Ean You Find Me?</h2> 
 (Twitter is best described as a 'dumpster' 🤮)
 <br>
 <br>
