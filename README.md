@@ -2,7 +2,6 @@
 (Twitter is best described as a 'dumpster' 🤮)
 <br>
 <br>
-<br>
 <a href="https://twitter.com/dualc0rebrain"> <img src="https://pitlochryfestivaltheatre.com/wp-content/uploads/2020/04/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" height="70" width="70"> </a> 
 <a href="https://www.linkedin.com/in/anurag-prasad-206b0438/"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="70" width="70"></a>
 <a href="https://steamcommunity.com/id/dualcorebrain1/"> <img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" height="70" width="70"></a>
