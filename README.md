@@ -1,4 +1,4 @@
-<br><a href="[https://www.linkedin.com/in/anurag-prasad-206b0438/](https://en.m.wikipedia.org/wiki/File:LinkedIn_logo_initials.png)"> <img src="https://i.imgur.com/rIK65mn.png" height="800" width="800"></a>
+<br><a href="[https://www.linkedin.com/in/anurag-prasad-206b0438/]"> <img src="https://www.linkedin.com/in/anurag-prasad-206b0438/" height="200" width="200"></a>
 <br>
 <h2>Where Else Can You Find Me?</h2> 
 <br>
